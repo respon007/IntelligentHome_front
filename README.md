@@ -9,3 +9,5 @@
 
 ### （2）前端实时获取数据
   ![image](https://user-images.githubusercontent.com/36159052/115701395-528a0480-a39a-11eb-887b-76d4f35b8eb0.png)
+
+若报错无static文件夹，则新建static文件夹
